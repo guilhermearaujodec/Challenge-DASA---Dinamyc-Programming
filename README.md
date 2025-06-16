@@ -37,7 +37,7 @@ sistema_monitoramento_exames/
 │
 ├── main.py                # Script principal para execução do sistema
 ├── README.md              # Este arquivo de documentação
-└── requirements.txt       # Lista de dependências (se aplicável)
+└── challenge_dynamic_programming.pdf   # Documentação do projeto
 ```
 
 ---
@@ -46,8 +46,7 @@ sistema_monitoramento_exames/
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu_usuario/sistema_monitoramento_exames.git
-   cd sistema_monitoramento_exames
+   git clone https://github.com/guilhermearaujodec/Challenge-DASA---Dinamyc-Programming.git
    ```
 
 2. **Execute o sistema:**
@@ -78,4 +77,11 @@ Obrigado por escolher nosso sistema para gerir seus exames clínicos! 🩺✨
 
 _Desenvolvido com dedicação por sua equipe de programação._
 
-```
+
+## 6 - Autores
+
+- Augusto Mendonça - RM: 558371  
+- Gabriel Vasquez - RM: 557056  
+- Guilherme Araujo - RM: 558926  
+- Gustavo Oliveira - RM: 559163  
+
